@@ -74,9 +74,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 | `1005`          | `INC AL`             | Increment contents of accumulator |
 | `1007`          | `JNC LOOP`           | Jump if no carry (continue loop) |
 | `1009`          | `JMP START`          | Go to starting location         |
-
 ---
-
 ## Tabulation
 
 | Waveform  | Amplitude | Time period | 
